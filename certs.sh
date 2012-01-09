@@ -34,4 +34,4 @@ mv server.key server.key.secure
 mv server.key.insecure server.passless.key
 echo "Created."
 sudo rm ca.key server.csr server.key.secure
-echo "Install ca.crt to your device by emailing it to yourself or putting it up on a web server or something."
+echo "Install ca.crt to your iPhone 4S device by emailing it to yourself or putting it up on a web server or something. -Edited By Aviv.A"
